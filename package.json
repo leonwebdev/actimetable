@@ -1,0 +1,19 @@
+{
+    "name": "actimetable",
+    "version": "1.0.0",
+    "description": "Algonquin College Timetable",
+    "main": "index.js",
+    "scripts": {
+        "test": "nodemon"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/leonwebdev/actimetable.git"
+    },
+    "author": "Leon Johnson",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/leonwebdev/actimetable/issues"
+    },
+    "homepage": "https://github.com/leonwebdev/actimetable#readme"
+}
